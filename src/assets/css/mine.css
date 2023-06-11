@@ -1,0 +1,49 @@
+body {
+    background-color: #f0f2f5 !important;
+}
+
+.page_control_container {
+    margin-bottom: 20px;
+    padding: 16px 24px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.page_control_container .page_condition {
+    text-align: left;
+}
+
+.page_control_container .page_condition_controler {
+    text-align: right;
+}
+
+.page_result {
+    padding: 16px 24px;
+    background-color: #FFFFFF;
+}
+
+.result_extra_control {
+    padding: 0px 24px 16px 0;
+}
+
+.avatar-uploader>.ant-upload {
+    width: 104px;
+    height: 104px;
+}
+
+.ant-upload-select-picture-card i {
+    font-size: 32px;
+    color: #999;
+}
+
+.ant-upload-select-picture-card .ant-upload-text {
+    margin-top: 8px;
+    color: #666;
+}
+
+.edit_modal_filelist {
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+    padding: 0 6px 10px;
+  }
